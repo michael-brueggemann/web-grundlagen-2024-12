@@ -25,7 +25,7 @@ slides/*.pptx
 
 # ignore all solutions, remove these entries if you want to commit the solutions
 # html-css/exercise-*
-javascript/*/solution*
+# javascript/*/solution*
 javascript/exercise-17-js/
 
 aaa/
@@ -55,12 +55,12 @@ aaa/
 
 # hide javascript solutions:
 # javascript/01*/solution/
-# javascript/02*/solution/
-# javascript/03*/solution/
-# javascript/04*/solution/
-# javascript/05*/solution/
-# javascript/05*/solution-1/
-# javascript/05*/solution-2/
-# javascript/05*/solution-3/
-# javascript/05*/solution-4/
-# javascript/exercise-17-js/
+javascript/02*/solution/
+javascript/03*/solution/
+javascript/04*/solution/
+javascript/05*/solution/
+javascript/05*/solution-1/
+javascript/05*/solution-2/
+javascript/05*/solution-3/
+javascript/05*/solution-4/
+javascript/exercise-17-js/
